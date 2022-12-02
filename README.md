@@ -2,7 +2,7 @@
 
 
  ## Hello 👋
-
+alt=elvirafitriani /> </p>
 I am from Indonesia
 And i am Crypto Girl 🌺🌺🌺
 
@@ -15,7 +15,7 @@ And i am Crypto Girl 🌺🌺🌺
 
 
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=elvirafitriani alt=elvirafitriani /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=elvirafitriani
 
 
 
