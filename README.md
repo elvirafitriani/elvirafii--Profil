@@ -3,7 +3,7 @@
 
  ## Hello 👋
 
-I am from Indoesia 
+I am from Indonesia
 And i am Crypto Girl 🌺🌺🌺
 
 
