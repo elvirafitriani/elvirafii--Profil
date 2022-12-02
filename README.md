@@ -23,4 +23,4 @@ https://twitter.com/elvirafii</p>
 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=elvirafitriani&show_icons=true&include_all_commits=true)](https://github.com/elvirafitriani/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvirafitriani&layout=compact)](https://github.com/elvirafitriani/github-readme-stats)
+
