@@ -16,7 +16,7 @@ And i am Crypto Girl 🌺🌺🌺
 
 
 
-## Here is my contrubition 
+## Here is my contribution
 1. Cosmos Ecosystem
 2. More ...
 
