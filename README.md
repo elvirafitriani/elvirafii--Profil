@@ -1,7 +1,7 @@
 # elvirafii--Profil
 
 
- ## Introduct 
+ ## introduction 
 Hello👋
 <p align='left'>My name is Elvira
 I am from Indonesia
