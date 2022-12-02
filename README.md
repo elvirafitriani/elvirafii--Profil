@@ -14,8 +14,6 @@ And i am Crypto Girl 🌺🌺🌺
 
 
 
- fitrianie666@gmail.com
-https://twitter.com/elvirafii</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=elvirafitriani alt=elvirafitriani /> </p>
 
